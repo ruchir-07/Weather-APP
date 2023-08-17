@@ -11,7 +11,7 @@ The app is developed using React.js and material-UI.
 
 ## 💻 Live Demo:
 
-https://clima-mate.netlify.app/
+https://weather-app-livid-beta.vercel.app/
 
 <br/>
 
